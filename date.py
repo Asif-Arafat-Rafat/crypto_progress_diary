@@ -5,7 +5,7 @@ from openpyxl.utils import get_column_letter
 def file_name(coins):
     today = date.today()
     print("Today's date:", today)
-    filename = f"TradingData_{today}.xlsx"
+    filename = f"TradingData.xlsx"
     # filename = "trial.xlsx"
     current_dir=os.path.dirname(os.path.abspath(__file__))
     path=os.path.join(current_dir,"sub")
