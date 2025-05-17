@@ -22,3 +22,9 @@
 ```bash
 git clone https://github.com/Asif-Arafat-Rafat/crypto_progress_diary.git
 cd crypto_progress_diary
+```
+### 2.Create .env file
+```bash
+Binance_API_KEY = "#####################################"
+Binance_API_SECRET = "#####################################"
+```
