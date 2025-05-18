@@ -2,3 +2,5 @@
 env/
 requirements.txt
 scripts/
+__pycache__/
+.gitignore
